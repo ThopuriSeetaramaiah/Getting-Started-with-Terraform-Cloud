@@ -53,5 +53,5 @@ variable "width" {
 variable "placeholder" {
   type        = string
   default     = "placedog.net"
-  description = "(Optional) Diamond Dog URL. Defaults to placedog.net."
+  description = "Diamond Dog URL. Defaults to placedog.net."
 }
